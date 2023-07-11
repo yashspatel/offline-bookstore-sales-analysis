@@ -24,7 +24,8 @@ To get started with this project, follow these steps:
 
 ## Screenshots
 
-Include screenshots of your Power BI dashboard here, showcasing its various features and visualizations.
+![image](https://github.com/yashspatel/offline-bookstore-sales-analysis/assets/52578075/efa2e5fe-961e-498c-9154-d6b5753d20d5)
+
 
 ## Contributing
 
