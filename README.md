@@ -42,3 +42,11 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 We would like to acknowledge the offline bookstore for providing the sales data and the Power BI community for their valuable resources and support.
 
+## *Contact*
+
+To learn more about this project and others:
+
+- [*Portfolio*](https://yashspatel.netlify.app/)
+- [*LinkedIn*](https://www.linkedin.com/in/yashsanjaykumarpatel/)
+- [*GitHub*](https://github.com/yashspatel)
+- [*My Resume*](https://yashspatel.netlify.app/images/Yash's%20Resume.pdf) 
